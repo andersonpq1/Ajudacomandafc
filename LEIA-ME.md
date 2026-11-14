@@ -1,14 +1,11 @@
 # ComandaFC Digital — Ajuda
 
-Projeto estático independente. Não depende do outro projeto.
+Referência: projeto 1.0.74. Atualização: 14/11/2026.
 
-1. Crie um repositório chamado comandafc-ajuda no GitHub.
-2. Envie os arquivos desta pasta para a raiz do repositório, incluindo index.html e estilo.css. Não envie a pasta inteira como subpasta.
-3. Ative o GitHub Pages para a branch principal e a pasta raiz.
-4. Use o endereço fornecido pelo GitHub para esta página.
+Substitua index.html e estilo.css na raiz do repositório existente Ajudacomandafc, mantendo .nojekyll e a configuração atual do GitHub Pages. Não coloque os arquivos dentro de outra subpasta.
 
-Exemplo, caso use o perfil AndersonPQ1 e o nome sugerido:
-https://andersonpq1.github.io/comandafc-ajuda/
+URL usada pelo aplicativo: https://andersonpq1.github.io/Ajudacomandafc/
 
-O endereço acima é previsto; este projeto ainda não foi publicado.
-Contato: Desenvolvedorfca@gmail.com | WhatsApp: +55 67 99972-4675.
+Não houve publicação automática. Depois que o GitHub Pages publicar o commit, confira o carregamento e recarregue o CSS sem cache se necessário.
+
+Contato preservado do original: Desenvolvedorfca@gmail.com | WhatsApp +55 67 99972-4675.
